@@ -1,0 +1,25 @@
+{
+  "name": "evie.selfbot",
+  "version": "1.2.1",
+  "description": "Evie's Famous Homemade Selfbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evelyne Lachance <me@evie.codes>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js#master",
+    "djs-collection-persistent": "^0.1.3",
+    "fs-nextra": "^0.1.1",
+    "js-beautify": "^1.6.14",
+    "level": "^1.7.0",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0",
+    "ws": "^3.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
